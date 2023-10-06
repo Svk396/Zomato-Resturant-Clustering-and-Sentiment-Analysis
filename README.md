@@ -46,25 +46,46 @@ Pictures : No. of pictures posted with review
 
 # Notebook Breakdown:
 Business Problem Analysis
+
 Data Collection
+
 Data Cleaning and Preprocessing
+
 Feature Engineering
+
 Exploratory Data Analysis
+
 Best Restaurants in the City
+
 The Most Popular Cuisines in Hyderabad
+
 Restaurants and their Costs
+
 Cost-Benefit Analysis
+
 Hypotheses Generation on visualized data for Clustering
+
 Restaurant Clustering
+
 K means Clustering on Cost and Ratings
+
 Multi-Dimensional K means Restaurant Clustering
+
 Principal Component Analysis
+
 Silhouette Score
+
 K means Clustering
+
 Cluster Exploration
+
 Sentiment Analysis
+
 Exploratory Data Analysis
+
 Critics in the Industry
+
 Text Pre-Processing and Text Visualization
+
 Modeling
 Conclusion
